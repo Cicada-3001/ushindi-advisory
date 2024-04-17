@@ -1,0 +1,3 @@
+rewrites:
+  - source: "(.*)(?:\.html)?"
+    destination: "$1.html"

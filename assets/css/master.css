@@ -674,6 +674,7 @@ header {
   z-index: 99;
 }
 
+
 @-webkit-keyframes fade-in-down {
   0% {
     opacity: 0;
@@ -4491,15 +4492,21 @@ a.laearnmore2:hover span svg{
   padding: 47px 28px 37px 28px;
 }
 
+.site-logo{
+  height: 50px;
+  width: 50px;
+}
+
+
 .service3-imag1 img {
-  width: 100%;
-  height: 100%;
+  width: 180px;
+  height: 200px;
   object-fit: cover;
 }
 
 .service3-imag1 {
   position: absolute;
-  top: 35px;
+  bottom: 0;
   right: 0;
 }
 img.elementor-18 {
@@ -4801,6 +4808,10 @@ img.approahimages {
   object-fit: cover;
 }
 
+.welcomeaboiut2 h1{
+  color: white !important;
+}
+
 .approach-img {
   border-radius: 60px;
   background: var(--main-color, #003366);
@@ -4812,8 +4823,7 @@ img.approahimages {
   line-height: 57px;
 }
 .approach-area {
-  border-radius: 2px;
-  background: #FFF;
+  background: #ede6d3;
 /* Shadow */
   box-shadow: 0px 0px 49px 0px rgba(0, 0, 0, 0.09);
   padding: 24px;
@@ -8118,10 +8128,10 @@ img.manimages10 {
       color: #55387B;
   }
   40% {
-      stroke: #EB3338
+      stroke: #2B99E0
   }
   66% {
-      stroke: #905ea8
+      stroke: #2B99E0
   }
   80%,
   90% {
@@ -8136,8 +8146,8 @@ img.manimages10 {
       color: #55387B;
   }
   40% {
-      stroke: #EB3338;
-      color: #EB3338;
+      stroke: #2B99E0;
+      color: #2B99E0;
   }
   66% {
       stroke: #905ea8;
@@ -8160,9 +8170,9 @@ img.manimages10 {
 }
 
 .typing-demo {
-  width: 15ch;
-  -webkit-animation: typing 2s steps(22), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
+  width: 24ch;
+  -webkit-animation: typing 2s steps(12), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
+  animation: typing 2s steps(12), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -11589,11 +11599,11 @@ a.contactcta10 {
 }
 
 .welcomeabout-area{
-  background-image: url('https://s32566.pcdn.co/wp-content/uploads/2022/02/Black-women-looking-at-tablet_opt-1-951x634.jpg.optimal.jpg')
-
+  background-image: url('https://s32566.pcdn.co/wp-content/uploads/2022/02/Black-women-looking-at-tablet_opt-1-951x634.jpg.optimal.jpg');
+  color: white;
 }
 
-.welcomeabout-area{
+.welcomeabout-area::after{
   color: white !important;
 }
 

@@ -44,6 +44,10 @@ ul, li{
     text-decoration: none;
 }
 
+.mobile-logo img{
+    height: 50px;
+    width: 100%;
+}
 
 .mobile-header {
     position: absolute;

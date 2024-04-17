@@ -415,9 +415,11 @@ Description:
 }
 
 .mobile-header.mobile-header.homepagesmall {
-    background: #000;
+    background: #161b2fb3;
     position: fixed;
 }
+
+
 .mobile-header.mobile-header.homepagesmall1 {
     background: #fff;
     position: fixed;
@@ -1596,7 +1598,7 @@ img.growth1 {
         }
 
 .mobile-header.mobile-header.homepagesmall {
-    background: #000;
+    background: #161b2fb3;
     position: fixed;
 }
 .mobile-header.mobile-header.homepagesmall1 {
@@ -3201,7 +3203,7 @@ img.img-4 {
     line-height: 45px;
 }
 .mobile-header.mobile-header.homepagesmall {
-    background: #000;
+    background: #161b2fb3;
     position: fixed;
 }
 .mobile-header.mobile-header.homepagesmall1 {
