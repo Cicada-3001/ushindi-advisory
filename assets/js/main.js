@@ -20,11 +20,6 @@
     });
 
 
-    setTimeout(function() {
-      $(".page-loader").fadeOut()
-    }, 4000);
-
-
 
 
     // SIGNATURE PROGRESS
