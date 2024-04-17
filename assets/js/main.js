@@ -1,16 +1,14 @@
-;(function($){
+(function($){
 
   $(document).ready(function(){
     
           // counter area
-          const ucounter = $('.counter');
+    const ucounter = $('.counter');
      
-          if (ucounter.length > 0) {
-           ucounter.countUp();  
-          }
-
-
-          $(".video-play-button").modalVideo();
+    if (ucounter.length > 0) {
+      ucounter.countUp();  
+    }
+    $(".video-play-button").modalVideo();
 
            // on page load...
     moveProgressBar();
@@ -53,17 +51,17 @@
             Tooltip
         ----------------------------------------------------*/
 
-        tippy('#tippy_bar', {
+    tippy('#tippy_bar', {
           content: "Marketing & Consultation",
           placement: 'top-end',
           animation: 'shift-toward-extreme',
-      });
+    });
 
 
 
-      $("#cta-input").click(function(){
+    $("#cta-input").click(function(){
           $("#show-hide-submenu").toggleClass('show-input');
-      });
+    });
 
 
 
@@ -74,15 +72,15 @@
 
   
       // init Isotope
-      var $grid = $('.port-filter').isotope({
+    var $grid = $('.port-filter').isotope({
           // options
-      });
+    });
       
       // filter items on button click
-      $('.tab-btn-wrapper').on( 'click', 'button', function() {
+    $('.tab-btn-wrapper').on( 'click', 'button', function() {
           var filterValue = $(this).attr('data-filter');
           $grid.isotope({ filter: filterValue });
-      });
+    });
     
  
 
@@ -458,7 +456,7 @@ $('.testimonial8-carousel-area').owlCarousel({
 
        setTimeout(function () {
             $("#pre-load").fadeToggle();
-          }, 500);    
+        }, 500);     
           
       //  aos
       AOS.init();
