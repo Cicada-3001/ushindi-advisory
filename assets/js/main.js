@@ -453,6 +453,10 @@ $('.testimonial8-carousel-area').owlCarousel({
 
    
   $(window).on('load', function(event) {
+          setTimeout(function() {
+            $(".page-loader").fadeOut()
+        }, 3000);
+
 
        setTimeout(function () {
             $("#pre-load").fadeToggle();
