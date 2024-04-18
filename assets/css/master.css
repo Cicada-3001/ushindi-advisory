@@ -8135,7 +8135,7 @@ img.manimages10 {
   }
   80%,
   90% {
-      stroke: #CD202D
+      stroke: #55387B
   }
 }
 
@@ -8155,7 +8155,7 @@ img.manimages10 {
   }
   80%,
   90% {
-      stroke: #CD202D;
+      stroke: #55387B;
       color: black;
   }
 }
@@ -8170,7 +8170,7 @@ img.manimages10 {
 }
 
 .typing-demo {
-  width: 24ch;
+  width: 27ch;
   -webkit-animation: typing 2s steps(12), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
   animation: typing 2s steps(12), blink .5s step-end infinite alternate, color 6s ease-in-out infinite;
   white-space: nowrap;
