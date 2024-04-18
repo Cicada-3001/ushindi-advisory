@@ -1000,8 +1000,8 @@ img.growth1 {
 
 @media screen and (max-width:767px) {
     .welcome-bgarea{
-        margin-left: 12px !important;
-        margin-right: 12px !important;
+        margin-left: 8px !important;
+        margin-right: 8px !important;
     }
 
     .container{
