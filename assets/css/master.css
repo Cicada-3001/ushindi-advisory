@@ -859,7 +859,7 @@ a.theme-btn5:hover{
 
 a.shedule-btn2 {
   border-radius: 2px;
-  background: #003366;
+  background: #3366CC;
   padding: 18px 24px;
   display: inline-block;
   transition: all .4s ease-in-out;
@@ -1017,7 +1017,7 @@ a.shedule-btn2:hover{
   transition: all.4s;
  }
  .theme-btn11{
-  background-color: #003366;
+  background-color: #3366CC;
   padding: 18px 24px;
   border-radius: 4px;
   text-align: center;
@@ -1032,12 +1032,12 @@ a.shedule-btn2:hover{
   transform: rotate(-45deg);
 }
 .theme-btn11:hover {
-  background:#003366;
+  background:#3366CC;
   transition: all .4s ease-in-out;
 }
 
 .theme-btn11:hover {
-  background: #003366;
+  background: #3366CC;
   transition: all .4s ease-in-out;
   color: #000;
 }
@@ -1112,10 +1112,10 @@ a.theme-btn11.consulting7btn:hover {
   color: #fff;
 }
 .main-menu-ex.homepage10 ul li ul li a:hover{
-  background:  #003366;
+  background:  #3366CC;
 }
 .consultingbtn10 {
-  background:  #003366;
+  background:  #3366CC;
 }
 .consultingbtn10 span{
   color: #fff;
@@ -1534,7 +1534,7 @@ img.elementor-16 {
 }
 /* homepage3-welcome starts */
 .welcome4-section-area {
-    background: var(--main-color, #003366);
+    background: var(--main-color, #3366CC);
     position: relative;
 }
 span.trust {
@@ -2656,7 +2656,7 @@ span.aboutspan {
 }
 .solutions10{
   border-radius: 4px;
-  background:  #003366;
+  background:  #3366CC;
   padding: 16px 24px;
   position: relative;
   z-index: 2;
@@ -2686,7 +2686,7 @@ span.aboutspan {
   right: 0;
 }
 a.homepagebtn10 {
-  background:  #003366;
+  background:  #3366CC;
   padding: 16px 24px;
   position: relative;
   z-index: 1;
@@ -2694,7 +2694,7 @@ a.homepagebtn10 {
 .homepagebtn10 {
   overflow: hidden;
   position: relative;
-  background:  #003366;
+  background:  #3366CC;
   padding: 16px 24px;
   position: relative;
   z-index: 1;
@@ -2740,7 +2740,7 @@ img.homewelbg {
 }
 .elips-icon {
   border-radius: 118.421px;
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   height: 120px;
   width: 120px;
@@ -3400,14 +3400,14 @@ span.about3span {
 }
 a.theme6-btn6 {
   border-radius: 2px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   display: inline-block;
   padding: 18px 22px;
   transition: all .4s ease-in-out;
 }
 a.theme6-btn6.bakgrnd5:hover {
   background: #fff;
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   border: none;
 }
 .theme6-btn6.backgrnd6{
@@ -3416,7 +3416,7 @@ a.theme6-btn6.bakgrnd5:hover {
   margin-left: 16px;
 }
 .theme6-btn6.backgrnd6:hover{
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   color:#fff ;
   border: none;
 }
@@ -3428,7 +3428,7 @@ a.theme6-btn6:hover{
   border-radius: 2px;
   /* border: 1px solid #fff; */
   transition: all .4s ease-in-out;
-  background: var(--secondary-color, #003366);
+  background: var(--secondary-color, #3366CC);
   color: #fff;
 }
 .counter3-boxarea4 {
@@ -3446,7 +3446,7 @@ a.theme6-btn6:hover{
 }
 .counter3-boxarea4:hover{
   border-radius: 2px;
-background: var(--main-color, #003366);
+background: var(--main-color, #3366CC);
 box-shadow: 0px 2px 48px 0px rgba(0, 0, 0, 0.09);
 transition: all .4s ease-in-out;
 color: #fff;
@@ -3492,7 +3492,7 @@ img.elementor-9 {
   width: 100%;
   left: 0;
   top: 0;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all .4s ease-in-out;
   z-index: -1;
 }
@@ -3586,7 +3586,7 @@ img.missionimg2 {
 }
 button#pills-profile-tab {
   background: none;
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -3601,7 +3601,7 @@ button#pills-profile-tab:hover {
 }
 button#pills-home-tab {
   background: none;
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -3617,7 +3617,7 @@ button#pills-home-tab:hover {
 }
 button#pills-contact-tab {
   background: none;
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -3983,7 +3983,7 @@ img.trandparency {
 
 
 .heading{
-  color: #003366;
+  color: #3366CC;
 }
 
 body{
@@ -3997,7 +3997,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .experiance-area {
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   padding: 32px 50px;
   text-align: center;
@@ -4008,7 +4008,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 30px;
 }
 .about10list ul li span {
-  background:  #003366;
+  background:  #3366CC;
   height: 20px;
   width: 20px;
   display: inline-block;
@@ -4020,7 +4020,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 8px 0 0;
 }
 .textcall-icon {
-  border: 1px solid  #003366;
+  border: 1px solid  #3366CC;
   display: inline-block;
   height: 48px;
   width: 48px;
@@ -4041,7 +4041,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .callicon:hover .textcall-icon {
   transition: all .4s ease-in-out;
-  background:  #003366;
+  background:  #3366CC;
   /* filter: brightness(0.5); */
 }
 
@@ -4051,7 +4051,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callicon:hover .textcall a {
-  color:  #003366;
+  color:  #3366CC;
   transition: all .4s ease-in-out;
 }
 .divarea {
@@ -4558,7 +4558,7 @@ img.elementor-18 {
   position: relative;
 }
 .service5-icons {
-  background: #003366;
+  background: #3366CC;
   width: 70px;
   height: 70px;
   text-align: center;
@@ -4580,7 +4580,7 @@ img.elementor-18 {
 }
 .service4-boxarea5:hover{
   border-radius: 2px;
-background: var(--main-color, #003366);
+background: var(--main-color, #3366CC);
 transition: all .4s ease-in-out;
 }
 .service4-boxarea5:hover .service5-icons{
@@ -4628,7 +4628,7 @@ img.elementor25 {
 }
 .singlepalnning-area:hover{
   border-radius: 2px;
-background: var(--main-text-color, #003366);
+background: var(--main-text-color, #3366CC);
 transition: all .4s ease-in-out;
 }
 .singlepalnning-area:hover a{
@@ -4649,7 +4649,7 @@ transition: all .4s ease-in-out;
 }
 a.docbtn1 {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   padding: 18px 24px;
   display: inline-block;
 }
@@ -4662,10 +4662,10 @@ a.docbtn1 img {
 }
 a.docbtn1:hover {
   background: #fff;
-  color: #003366;
+  color: #3366CC;
 }
 a.docbtn1:hover {
-  color: #003366;
+  color: #3366CC;
   transition: all .4s ease-in-out;
 }
 a.docbtn1:hover img {
@@ -4687,7 +4687,7 @@ a.docbtn1:hover img {
 }
 .docbtn2:hover{
   border-radius: 2px;
-background: var(--main-text-color, #003366);
+background: var(--main-text-color, #3366CC);
 transition: all .4s ease-in-out;
 color: #fff;
 }
@@ -4708,7 +4708,7 @@ color: #fff;
 
 .needed-section a {
   border-radius: 2px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   padding: 18px 20px;
 }
 
@@ -4718,7 +4718,7 @@ color: #fff;
 
 .needed-section a:hover {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -4769,7 +4769,7 @@ line-height: 16px; /* 100% */
 }
 button.quitobtn {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   border: none;
   outline: none;
   padding: 18px 20px;
@@ -4783,7 +4783,7 @@ button.quitobtn span svg {
   transition: all .4s ease-in-out;
 }
 button.quitobtn:hover{
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   transition: all .4s ease-in-out;
 }
 .serviceauthior-area img {
@@ -4796,7 +4796,7 @@ button.quitobtn:hover{
   padding: 0 50px 0 50px;
 }
 .border30 {
-  border: 1px solid #003366;
+  border: 1px solid #3366CC;
   opacity: 0.2;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -4814,7 +4814,7 @@ img.approahimages {
 
 .approach-img {
   border-radius: 60px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -4839,7 +4839,7 @@ img.approahimages {
 }
 .approach-area:hover {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   box-shadow: 0px 0px 49px 0px rgba(0, 0, 0, 0.09);
 }
 .approach-area:hover .approach-img{
@@ -5231,7 +5231,7 @@ img.elementors63 {
 }
 
 .elips-icon6 {
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   height: 72px;
   width: 72px;
@@ -5257,7 +5257,7 @@ img.elementors63 {
   content: "";
   bottom: 0;
   right: 0;
-  background:  #003366;
+  background:  #3366CC;
   height: 30px;
   width: 30px;
   z-index: -1;
@@ -5323,7 +5323,7 @@ img.elmentors66 {
 
 .servicespan .service-allspan {
   border-radius: 64px;
-  background:  #003366;
+  background:  #3366CC;
   height: 20px;
   width: 20px;
   display: inline-block;
@@ -5349,7 +5349,7 @@ img.elmentors66 {
   content: "";
   bottom: 0;
   right: 0;
-  background-color: #003366;
+  background-color: #3366CC;
   z-index: -1;
   transition: all .4s ease-in-out;
   height: 30px;
@@ -5858,7 +5858,7 @@ a.multiplebtn i {
 }
 .preview-homepagesarea::after{
   position: absolute;
-  background: #003366;
+  background: #3366CC;
   height: 100%;
   content: "";
   width: 100%;
@@ -5940,7 +5940,7 @@ a.lawconsulting:hover {
     bottom: 0;
     transition: all .4s ease-in-out;
     z-index: -1;
-    background: #003366;
+    background: #3366CC;
     opacity: 0;
     visibility: hidden;
     border-radius: 5px;
@@ -5997,7 +5997,7 @@ a.linkabout:hover {
     object-fit: cover;
 }
 .features-section-area {
-    background: #003366;
+    background: #3366CC;
     position: relative;
 }
 .features-boxareab {
@@ -7386,10 +7386,10 @@ img.elemneotrs13 {
   background: #E7EFD8;
 }
 .toggle-inner.home10price .custom-toggle {
-  background:  #003366;
+  background:  #3366CC;
 }
 .pricing-allowarea h1 {
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   width: 120px;
   height: 120px;
@@ -7423,7 +7423,7 @@ ul li span {
   height: 20px;
   width: 20px;
   display: inline-block;
-  background:  #003366;
+  background:  #3366CC;
   color: #fff;
   text-align: center;
   line-height: 20px;
@@ -7439,7 +7439,7 @@ ul li span {
   padding-left: 51px;
 }
 a.pricingbtn10 {
-  background:  #003366;
+  background:  #3366CC;
   padding: 16px 24px;
   width: 100%;
   margin-top: 32px;
@@ -7464,7 +7464,7 @@ a.pricingbtn10 img{
 }
 .pricing10-boxarea:hover a.pricingbtn10{
   background-color: #fff;
-  color: #003366 ;
+  color: #3366CC ;
 }
 .pricing10-boxarea:hover .elementorspricing{
   filter: brightness(0) invert(1);
@@ -7477,7 +7477,7 @@ a.pricingbtn10 img{
 .pricing10-boxarea:hover .pricing-allowarea h1{
   background: #fff;
   transition: all .4s ease-in-out;
-  color: #003366 ;
+  color: #3366CC ;
 }
 .pricing10-boxarea img{
   transition: all .4s ease-in-out;
@@ -7488,12 +7488,12 @@ a.pricingbtn10 img{
 }
 .pricing10-boxarea:hover{
   border-radius: 4px;
-background:  #003366;
+background:  #3366CC;
 transition: all .4s ease-in-out;
 }
 .pricing10-boxarea:hover ul li span{
   background: #fff;
-  color: #003366 ;
+  color: #3366CC ;
   transition: all .4s ease-in-out;
 }
 .pricing10-boxarea{
@@ -7678,12 +7678,12 @@ transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
 }
 .testimonial5-section5-area .owl-nav button.owl-next:hover{
-  background: #003366;
+  background: #3366CC;
   color: #fff;
   transition: all .4s ease-in-out;
 }
 .testimonial5-section5-area .owl-nav button.owl-prev:hover{
-  background: #003366;
+  background: #3366CC;
   color: #fff;
   transition: all .4s ease-in-out;
 }
@@ -8242,7 +8242,7 @@ img.polugonimages {
 }
 .testimonial10-boxarea:hover .testimonial10-allarea{
   border-radius: 4px;
-background:  #003366;
+background:  #3366CC;
 transition: all .4s ease-in-out;
 }
 .testimonial10-boxarea:hover p{
@@ -8282,7 +8282,7 @@ transition: all .4s ease-in-out;
   display: inline-block;
   border-radius: 50%;
   font-size: 18px;
-  color:  #003366;
+  color:  #3366CC;
   position: absolute;
   top: 15%;
   left: -80px;
@@ -8290,7 +8290,7 @@ transition: all .4s ease-in-out;
 }
 
 .testimonial10-owlcarousel.owl-carousel.owl-loaded.owl-drag .owl-nav button.owl-prev:hover {
-  background:  #003366;
+  background:  #3366CC;
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -8302,7 +8302,7 @@ transition: all .4s ease-in-out;
   display: inline-block;
   border-radius: 50%;
   font-size: 18px;
-  color:  #003366;
+  color:  #3366CC;
   position: absolute;
   top: 18%;
   right: -80px;
@@ -8310,7 +8310,7 @@ transition: all .4s ease-in-out;
 }
 
 .testimonial10-owlcarousel.owl-carousel.owl-loaded.owl-drag .owl-nav button.owl-next:hover {
-  background:  #003366;
+  background:  #3366CC;
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -8537,7 +8537,7 @@ a.laearnmore2:hover {
 .blog-auhtor-text ul li {
   display: inline-block;
   align-items: center;
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
   font-family: Outfit;
   font-size: 16px;
   font-style: normal;
@@ -8546,7 +8546,7 @@ a.laearnmore2:hover {
 }
 
 .blog-auhtor-text ul li a {
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
   font-family: Outfit;
   font-size: 16px;
   font-style: normal;
@@ -8575,7 +8575,7 @@ a.learnmore3 span svg {
   transition: all .4s ease-in-out;
 }
 a.learnmore3:hover {
-  color: #003366;
+  color: #3366CC;
   transition: all.4s ease-in-out;
 }
 .blog-auhtor-text {
@@ -8589,7 +8589,7 @@ a.learnmore3:hover {
 }
 .blog5-author5:hover .blog-auhtor-text{
   border-radius: 4px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -8626,20 +8626,20 @@ a.learnmore3:hover {
   margin: 0 4px 0 0;
 }
 a.bloginnerhover:hover {
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
 }
 
 a.laearnmore2.bloginnerhover:hover {
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
 }
 .blog2-ahtuor2.blog2inner:hover {
   border-radius: 4px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all .4s ease-in-out;
 }
 .blog2-ahtuor2.blog-2ahthor.bloinner2 {
   border-radius: 4px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
 }
 .recenrblos-area {
   border-radius: 2px;
@@ -8668,7 +8668,7 @@ a.laearnmore2.bloginnerhover:hover {
   object-fit: cover;
 }
 .recentblogsall h1 a:hover {
-  color: #003366;
+  color: #3366CC;
   transition: all .4s ease-in-out;
 }
 .author-area {
@@ -8702,7 +8702,7 @@ a.laearnmore2.bloginnerhover:hover {
   position: absolute;
   height: 16px;
   /* stroke-width: 1px; */
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   opacity: 0.4;
   right: -29%;
   z-index: 1;
@@ -8731,7 +8731,7 @@ img.w-100.innerimg {
 }
 .peragraph-pera.peragraeabg{
   border-radius: 2px;
-background: var(--main-text-color, #003366);
+background: var(--main-text-color, #3366CC);
 margin-top: 32px;
 margin-bottom: 60px;
 }
@@ -8760,7 +8760,7 @@ margin-bottom: 60px;
   width: 60px;
   height: 60px;
   /* background: #24BA96; */
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -8779,7 +8779,7 @@ margin-bottom: 60px;
   height: 50px;
   /* background: #24BA96; */
   border-radius: 50%;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all 200ms;
 }
 
@@ -8799,7 +8799,7 @@ margin-bottom: 60px;
 }
 
 .blogleft-blog-section-area a:hover {
-  color: #003366;
+  color: #3366CC;
 }
 .video-play-button span {
   display: block;
@@ -8888,7 +8888,7 @@ margin-bottom: 60px;
 
 .posttags ul li a:hover {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   color: #fff;
   transition: all .4s ease-in-out;
 }
@@ -8911,7 +8911,7 @@ margin-bottom: 60px;
 .share-area ul li a:hover{
   transition: all .4s ease-in-out;
   border-radius: 32.149px;
-background: var(--main-text-color, #003366);
+background: var(--main-text-color, #3366CC);
 color: #fff;
 }
 .postsocial-area {
@@ -8964,7 +8964,7 @@ color: #fff;
   outline: none;
 }
 .bloginput input::placeholder{
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   font-family: 'Kumbh Sans', sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -8973,7 +8973,7 @@ line-height: 16px;
 opacity: 0.7;
 }
 .bloginput textarea::placeholder{
-  color: var(--main-text-color, #003366);
+  color: var(--main-text-color, #3366CC);
   font-family: 'Kumbh Sans', sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -9308,7 +9308,7 @@ img.elementors15 {
   border-radius: 4px 4px 0 0;
 }
 .auhtor-blog10 a:hover {
-  color:  #003366;
+  color:  #3366CC;
   transition: all .4s ease-in-out;
 }
 .auhtor-blog10 a img{
@@ -9320,7 +9320,7 @@ img.elementors15 {
   transition: all .4s ease-in-out;
 }
 .blog-divided1-text a:hover{
-  color:  #003366;
+  color:  #3366CC;
   transition: all .4s ease-in-out;
 }
 .blog-divided1-text a img{
@@ -9713,7 +9713,7 @@ a.contact3.contactboredrbtn {
   position: relative;
 }
 .phone7-icon {
-  background: #003366;
+  background: #3366CC;
   display: inline-block;
   height: 70px;
   width: 70px;
@@ -9737,7 +9737,7 @@ a.contact3.contactboredrbtn {
 }
 .contact5-main-section {
   border-radius: 4px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   padding: 32px;
 }
 .input-5area input {
@@ -9782,7 +9782,7 @@ line-height: 16px;
 button.contcat5 {
   justify-content: right;
   border-radius: 2px;
-  background: var(--secondary-color, #003366);
+  background: var(--secondary-color, #3366CC);
   padding: 18px 22px;
   border: none;
   display: inline-block;
@@ -9821,10 +9821,10 @@ button.contcat5:hover {
 }
 .contact2-auhtor-section.contacrtblogbg:hover {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
 }
 .contacblogbg{
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
 }
 .gmap_canvas {
   width: 100%;
@@ -10323,7 +10323,7 @@ ul.contact-select li {
 }
 
 ul.contact-select li {
-    /* background:  #003366; */
+    /* background:  #3366CC; */
     padding: 12px 14px;
     display: inline-block;
     border-radius: 4px;
@@ -10373,7 +10373,7 @@ ul.contact-select li {
     padding: 32px;
 }
 .contact-consult {
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   border: none;
   padding: 16px 24px;
@@ -10413,12 +10413,12 @@ ul.contact-select li {
 }
 ul.contact-select li.active-size {
   border-radius: 2px;
-  background:  #003366;
+  background:  #3366CC;
   color: #fff;
 }
 ul.contact-select li:hover{
   border-radius: 2px;
-  background:  #003366;
+  background:  #3366CC;
   color: #fff;
   transition: all .4s ease-in-out;
 }
@@ -10579,7 +10579,7 @@ img.elementor-19 {
     box-shadow: none;
 }
 button.accordion-button.collapsed {
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
   font-family: 'Lora', serif;
   font-size: 20px;
   font-style: normal;
@@ -10588,7 +10588,7 @@ button.accordion-button.collapsed {
 }
  .accordion-button:not(.collapsed){
   border-radius: 2px;
-background: var(--main-color, #003366);
+background: var(--main-color, #3366CC);
 } 
 .accordion-button:not(.collapsed){
 color: #fff;
@@ -10604,7 +10604,7 @@ button.accordion-button{
 }
 .accordion-body {
   border-radius: 2px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   color: #fff;
 }
 .accordion-body p {
@@ -10651,7 +10651,7 @@ h2.accordion-header {
   z-index: 1;
 }
 .client10-boxarea:hover .service10-icon{
-  background:  #003366;
+  background:  #3366CC;
   transition: all .4s ease-in-out;
 
 }
@@ -10672,7 +10672,7 @@ h2.accordion-header {
   top: 9px;
 }
 .numbericon {
-  background:  #003366;
+  background:  #3366CC;
   display: inline-block;
   height: 24px;
   width: 24px;
@@ -10686,15 +10686,15 @@ h2.accordion-header {
 .client10-boxarea:hover .numbericon{
   background: #fff;
   box-shadow: drop-shadow(1px 0px 48px rgba(0, 0, 0, 0.50));
-  color: #003366;
+  color: #3366CC;
   transition: all .4s ease-in-out;
 }
 .client10-boxarea:hover .numbericon p{
-  color: #003366;
+  color: #3366CC;
   transition: all .4s ease-in-out;
 }
 .client10-boxarea a:hover{
-  color: #003366;
+  color: #3366CC;
   transition: all .4s;
 }
 .worksall-section-area{
@@ -10830,12 +10830,12 @@ ul.pagination {
 }
 
 li.page-item.pagecolor a {
-  background: #003366;
+  background: #3366CC;
   color: #fff;
 }
 ul.pagination li a {
   border-radius: 2px;
-  /* background: var(--main-text-color, #003366); */
+  /* background: var(--main-text-color, #3366CC); */
   border-radius: 2px;
   background: #e6eaf0;
   color: #fff;
@@ -10854,7 +10854,7 @@ ul.pagination li a {
 }
 
 ul.pagination li a:hover {
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -10911,13 +10911,13 @@ ul.pagination li a:hover {
 
 .tags-area ul li a:hover {
   border-radius: 2px;
-  background: var(--main-text-color, #003366);
+  background: var(--main-text-color, #3366CC);
   transition: all .4s ease-in-out;
   color: #fff;
 }
 .peragraph-pera {
   /* border-radius: 2px; */
-  /* background: var(--main-color, #003366); */
+  /* background: var(--main-color, #3366CC); */
   border-radius: 2px;
   background: var(--gray-color, #e6eaf0);
   padding: 20px 32px;
@@ -10930,7 +10930,7 @@ ul.pagination li a:hover {
   top: 0;
   left: 0;
   border-radius: 2px;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   height: 100%;
   width: 10px;
   content: "";
@@ -11303,7 +11303,7 @@ a.contact4:hover {
   content: "";
   height: 100%;
   opacity: 0.9;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
   width: 100%;
   top: 0;
   z-index: 1;
@@ -11368,7 +11368,7 @@ a.theme6-btn6.bakgrnd51 {
 a.theme6-btn6.bakgrnd51:hover {
   color: #fff;
   transition: all .4s ease-in-out;
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
 }
 
 a.theme6-btn6.backgrnd62:hover {
@@ -11617,7 +11617,7 @@ a.contactcta10 {
 }
 a.solutions11 {
   border-radius: 4px;
-  background:  #003366;
+  background:  #3366CC;
   padding: 16px 24px;
   display: inline-block;
   transition: all .4s ease-in-out;
@@ -11631,7 +11631,7 @@ a.solutions11 img {
 a.solutions11:hover {
   transition: all .4s ease-in-out;
   background: #fff;
-  color:  #003366;
+  color:  #3366CC;
   transform: translateY(-6px);
 }
 
@@ -11650,7 +11650,7 @@ a.solutions12 {
 a.solutions12:hover {
   transform: translateY(-6px);
   transition: all .4s ease-in-out;
-  background:  #003366;
+  background:  #3366CC;
   color: #fff;
 }
 a.solutions12:hover img {
@@ -11767,7 +11767,7 @@ img.elementors81 {
 	height: 80%;
 }
 .team-pera h1 a:hover {
-  color: #003366;
+  color: #3366CC;
 }
 .project-thumb-two img {
   width: 100%;
@@ -11797,13 +11797,13 @@ img.elementors81 {
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #003366;
+  color: #3366CC;
   transition: all .4s ease-in-out;
   margin: 0 3px;
 }
 
 .project-content-two ul li a:hover {
-  background: #003366;
+  background: #3366CC;
   transition: all .4s ease-in-out;
   color: #fff;
 }
@@ -11863,7 +11863,7 @@ img.elementors81 {
   background: #e6eaf0;
 }
 .progress-teamdetails .progress-bar span {
-  background-color: #003366;
+  background-color: #3366CC;
 }
 .team-accordianimg img {
     width: 100%;
@@ -12316,7 +12316,7 @@ img.elementor-1 {
   left: 0;
 }
 .footer4-section-area{
-  background: var(--main-color, #003366);
+  background: var(--main-color, #3366CC);
 }
 .icon-social-links ul li {
   display: inline-block;
@@ -12368,7 +12368,7 @@ img.elementor-1 {
     outline: none;
 }
 .contact6-ctafrom form input::placeholder{
-  color: var(--main-color, #003366);
+  color: var(--main-color, #3366CC);
 
 font-size: 16px;
 font-style: normal;
@@ -12384,7 +12384,7 @@ line-height: 16px;
 button.contcat6 {
   border: none;
   border-radius: 2px;
-  background: var(--secondary-color, #003366);
+  background: var(--secondary-color, #3366CC);
   padding: 22px 22px;
   line-height: 16px;
 }
@@ -12569,19 +12569,19 @@ button.contactbtn6.contacts9 {
   background: #1DAF68;
 }
 .footer10links ul li a:hover {
-  color:  #003366;
+  color:  #3366CC;
 }
 .contactfooter10 a:hover {
-  color:  #003366;
+  color:  #3366CC;
   transition: all .4s ease-in-out;
 }
 .list10 ul li a {
   background: #E3ECEB;
-  color:  #003366;
+  color:  #3366CC;
 }
 
 .list10 ul li a:hover {
-  background:  #003366;
+  background:  #3366CC;
   color: #fff;
   transition: all .4s ease-in-out;
 }
@@ -12648,7 +12648,7 @@ img.elementors79 {
 }
 .get-preview1{
   border-radius: 5px;
-background: var(--Main-Text-Color, #003366);
+background: var(--Main-Text-Color, #3366CC);
 padding: 14px 22px;
 transition: all .4s ease-in-out;
 line-height: 28px;
