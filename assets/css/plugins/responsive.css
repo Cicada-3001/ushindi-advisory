@@ -1,11 +1,5 @@
 /*
-Theme Name: demo 
-Theme url:
-Author:Abdul Rabby
-Author url:
-Version:1.0.0
-Tag:
-Description:
+
 
 ================+/+/+/+/+/+/+/+/+/=================
                     heigh
@@ -1005,15 +999,28 @@ img.growth1 {
 
 
 @media screen and (max-width:767px) {
+    .welcome-bgarea{
+        margin-left: 12px !important;
+        margin-right: 12px !important;
+    }
+
+    .container{
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+    }
 
    
 }
+
+
+
+
 @media screen and (min-width:425px) and (max-width:767px) {
     .section-padding5{
-        padding: 50px 0 50px;
+        padding: 50px 10px 50px 10px !important;
     }
     .section-padding14{
-        padding: 50px 0 50px;
+        padding: 50px 10px 50px;
       }
       .welcome-header-area {
         padding: 150px 0px 40px;
@@ -3931,10 +3938,12 @@ a.shedulebtn4 {
 }
 body,html{
     overflow-x: hidden;
+   
   }
   .contact3-image3 {
     margin-top: 30px;
 }
+
 .team-detailsarea h1 {
     font-size: 35px;
     line-height: 45px;
