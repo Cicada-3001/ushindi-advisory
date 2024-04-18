@@ -46,8 +46,31 @@ FOOTER AREA CSS
 	right: 0;
 	top: 0;
 	width: 100%;
-	z-index: 9999;
+	z-index: 999999;
 }
+
+.runing-text {
+  background: #003366;
+  color: white;
+  text-transform: uppercase;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: auto;
+  left: 0px;
+  right: 0px;
+  z-index: 10000000;
+  padding: 15px;
+  letter-spacing: 3px;
+  -webkit-box-shadow: 0 -5px 5px rgb(0 0 0 / 20%);
+  box-shadow: 0 -5px 5px rgb(0 0 0 / 20%);
+  font-size: smaller;
+}
+
+.runing-text h7 {
+  padding-right: 20px !important;
+}
+
 
 #pre-load.loader6 .loader .loader-container:before{
   display: none;
